@@ -7,7 +7,7 @@
 1. Клонировать репозиторий:
    ```bash
    git clone https://github.com/ypnikotin/vk_group_post_cleaner.git
-   cd название_репо
+   cd vk_group_post_cleaner
 
 2. Создать виртуальное окружение и установить зависимости:
    ```bash
